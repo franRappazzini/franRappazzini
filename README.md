@@ -2,6 +2,9 @@
 
 [![franRappazzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h4>Languages:</h4>
 <a href="https://www.w3schools.com/html/default.asp">
