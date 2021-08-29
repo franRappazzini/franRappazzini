@@ -1,7 +1,7 @@
 ### Hi there! I'm Francisco 👋
 
 <h4>Languages:</h4>
-<a href="https://www.w3schools.com/html/default.asp">
+<a href="https://www.w3schools.com/html/default.asp" title="HTML">
   <img src="logos/html.svg" alt="img-html" width="50" />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
