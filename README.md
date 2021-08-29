@@ -10,6 +10,7 @@
 <a href="https://www.w3schools.com/js/default.asp">
   <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" align="left" />
 </a>
+<br>
 
 <h4>Skills:</h4>
 <a href="https://sass-lang.com/">
@@ -33,6 +34,7 @@
 <a href="https://github.com/">
   <img src="logos/github.svg" alt="img-github" width="50" title="GitHub" align="left" />
 </a>
+<br>
 
 <h4>Coming soon:</h4>
 <a href="https://reactjs.org/">
