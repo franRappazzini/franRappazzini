@@ -5,10 +5,10 @@
   <img src="logos/html.svg" alt="img-html" width="50" title="HTML" align="left" />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
-  <img src="logos/css.svg" alt="img-css" width="50" title="CSS" />
+  <img src="logos/css.svg" alt="img-css" width="50" title="CSS" align="left" />
 </a>
 <a href="https://www.w3schools.com/js/default.asp">
-  <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" />
+  <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" align="left" />
 </a>
 
 <h4>Skills:</h4>
