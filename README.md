@@ -2,7 +2,7 @@
 
 <h4>Languages:</h4>
 <a href="https://www.w3schools.com/html/default.asp">
-  <img src="logos/html.svg" alt="img-html" width="50" title="HTML" />
+  <img src="logos/html.svg" alt="img-html" width="50" />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
   <img src="logos/css.svg" alt="img-css" width="50" title="CSS" />
