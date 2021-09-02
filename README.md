@@ -26,7 +26,7 @@
   <img src="logos/json.svg" alt="img-json" width="50" title="JSON" align="left" />
 </a>
 <a href="https://www.w3schools.com/xml/ajax_intro.asp">
-  <img src="logos/ajax.svg" alt="img-ajax" width="50" title="AJAX"  />
+  <img src="logos/ajax.svg" alt="img-ajax" width="50" title="AJAX" align="left" />
 </a>
 <a href="https://www.npmjs.com/">
   <img src="logos/npm.svg" alt="img-npm" width="50" title="npm" align="left" />
