@@ -1,8 +1,4 @@
-<h1>Hey there! I'm Francisco 👋</h1> 
-
-
-[![franRappazzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
-
+### Hi there! I'm Francisco 👋
 
 <h4>Languages:</h4>
 <a href="https://www.w3schools.com/html/default.asp">
