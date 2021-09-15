@@ -45,10 +45,13 @@
 </a>
 <br/><br/>
 
-<h4>Coming soon:</h4>
+<h4>In progress:</h4>
 <a href="https://reactjs.org/">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
+<br/><br/>
+
+<h4>Coming soon:</h4>
 <a href="https://www.python.org/">
   <img src="logos/python.svg" alt="img-python" width="50" title="Python" align="left" />
 </a>
