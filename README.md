@@ -19,6 +19,9 @@
 <br/><br/>
 
 <h4>Skills:</h4>
+<a href="https://reactjs.org/">
+  <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
+</a>
 <a href="https://sass-lang.com/">
   <img src="logos/sass.svg" alt="img-sass" width="50" title="Sass" align="left" />
 </a>
@@ -42,12 +45,6 @@
 </a>
 <a href="https://github.com/">
   <img src="logos/github.svg" alt="img-github" width="50" title="GitHub" align="left" />
-</a>
-<br/><br/>
-
-<h4>In progress:</h4>
-<a href="https://reactjs.org/">
-  <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
 <br/><br/>
 
