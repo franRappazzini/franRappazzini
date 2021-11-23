@@ -6,7 +6,7 @@
 -----------------------------------------------
 
 
-<h4>🧑🏻‍💻 Languages:</h4>
+<h4>💻 Languages:</h4>
 <a href="https://www.w3schools.com/js/default.asp">
   <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" align="left" />
 </a>
@@ -18,7 +18,7 @@
 </a>
 <br/><br/>
 
-<h4> Skills:</h4>
+<h4>🪄 Skills:</h4>
 <a href="https://reactjs.org/">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
