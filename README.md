@@ -22,14 +22,14 @@
 <a href="https://reactjs.org/">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
+<a href="https://jquery.com/">
+  <img src="logos/jquery.svg" alt="img-jquery" width="50" title="jQuery" align="left" />
+</a>
 <a href="https://sass-lang.com/">
   <img src="logos/sass.svg" alt="img-sass" width="50" title="Sass" align="left" />
 </a>
 <a href="https://getbootstrap.com/">
   <img src="logos/boostrap.svg" alt="img-bootstrap" width="50" title="Bootstrap" align="left" />
-</a>
-<a href="https://jquery.com/">
-  <img src="logos/jquery.svg" alt="img-jquery" width="50" title="jQuery" align="left" />
 </a>
 <a href="https://www.w3schools.com/js/js_json_intro.asp">
   <img src="logos/json.svg" alt="img-json" width="50" title="JSON" align="left" />
