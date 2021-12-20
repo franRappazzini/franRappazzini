@@ -75,8 +75,11 @@ const i = {
 </a> -->
 
 -----------------------------------------------
-[Portfolio](https://rappazzini-portfolio.vercel.app/)
-[LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/)
+
+<a href="https://rappazzini-portfolio.vercel.app/">Portfolio</a>
+<a href="https://www.linkedin.com/in/francisco-rappazzini/">LinkedIn</a>
+
+
 
 
 <!--
