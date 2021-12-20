@@ -73,9 +73,9 @@ const i = {
 <!-- <a href="https://www.w3schools.com/sql/default.asp">
   <img src="logos/sql.svg" alt="img-sql" width="50" title="SQL" align="left" />
 </a> -->
-
+<br/>
 -----------------------------------------------
-
+<br/>
 <a href="https://rappazzini-portfolio.vercel.app/">Portfolio</a>
 <a href="https://www.linkedin.com/in/francisco-rappazzini/">LinkedIn</a>
 
