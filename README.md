@@ -74,6 +74,12 @@ const i = {
   <img src="logos/sql.svg" alt="img-sql" width="50" title="SQL" align="left" />
 </a> -->
 
+-----------------------------------------------
+
+![Portfolio](https://rappazzini-portfolio.vercel.app/)
+![LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/)
+
+
 <!--
 **franRappazzini/franRappazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
