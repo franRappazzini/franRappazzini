@@ -75,9 +75,8 @@ const i = {
 </a> -->
 
 -----------------------------------------------
-
-![Portfolio](https://rappazzini-portfolio.vercel.app/)
-![LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/)
+[Portfolio](https://rappazzini-portfolio.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/)
 
 
 <!--
