@@ -9,7 +9,7 @@ const i = {
     skills: ["React JS", "React Native", "jQuery", "Sass", "Firebase", "Bootstrap", "AJAX", "Git", "npm", "& more"],
   },
   energy: "full 💯",
-}
+};
 ```
 
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
