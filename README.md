@@ -73,14 +73,11 @@ const i = {
 <!-- <a href="https://www.w3schools.com/sql/default.asp">
   <img src="logos/sql.svg" alt="img-sql" width="50" title="SQL" align="left" />
 </a> -->
-<br/>
+
 -----------------------------------------------
-<br/>
-<a href="https://rappazzini-portfolio.vercel.app/">Portfolio</a>
-<a href="https://www.linkedin.com/in/francisco-rappazzini/">LinkedIn</a>
 
-
-
+- [Portfolio](https://rappazzini-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/) 
 
 <!--
 **franRappazzini/franRappazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
