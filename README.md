@@ -6,7 +6,7 @@ const i = {
   city: "Buenos Aires, Argentina",
   role: {
     frontEndDev: ["JavaScript", "HTML", "CSS"],
-    skills: ["React JS", "React Native", "jQuery", "Sass", "Firebase", "Bootstrap", "AJAX", "Git", "npm", "& more"],
+    skills: ["React JS", "React Native", "Redux" , "jQuery", "Sass", "Firebase", "Bootstrap", "AJAX", "Git", "npm", "& more"],
   },
   energy: "full 💯",
 };
