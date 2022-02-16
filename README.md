@@ -34,6 +34,9 @@ const i = {
 <a href="https://reactjs.org/">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
+<a href="https://reactnative.dev/">
+  <img src="logos/react-native-logo.png" alt="img-react-native" width="50" title="React Native" align="left" />
+</a>
 <a href="https://jquery.com/">
   <img src="logos/jquery.svg" alt="img-jquery" width="50" title="jQuery" align="left" />
 </a>
@@ -62,14 +65,11 @@ const i = {
 
 <h4>🔨 In progress</h4>
 <a href="https://www.python.org/">
-  <img src="logos/react-native-logo.png" alt="img-react-native" width="50" title="React Native" align="left" />
+  <img src="logos/python.svg" alt="img-python" width="50" title="Python" align="left" />
 </a>
 <br/><br/>
 
-<h4>Coming soon:</h4>
-<a href="https://reactnative.dev/">
-  <img src="logos/python.svg" alt="img-python" width="50" title="Python" align="left" />
-</a>
+<!-- <h4>Coming soon:</h4> -->
 <!-- <a href="https://www.w3schools.com/sql/default.asp">
   <img src="logos/sql.svg" alt="img-sql" width="50" title="SQL" align="left" />
 </a> -->
