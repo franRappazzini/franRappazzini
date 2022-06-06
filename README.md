@@ -8,6 +8,7 @@ const i = {
     frontEndDev: ["JavaScript", "HTML", "CSS"],
     skills: ["React JS", "Redux" , "jQuery", "Sass", "Firebase", "Material-UI", "Bootstrap", "AJAX", "Git", "npm", "& more"],
   },
+  education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}]
   energy: "full 💯",
 };
 ```
