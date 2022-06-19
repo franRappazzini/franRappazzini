@@ -33,8 +33,7 @@ const i = {
 <br/><br/>
 
 <h4>🪄 Skills:</h4>
-<section style="display: flex; flex-direction: column;">
-  <div>
+
     <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
       <img src="logos/nodejs.png" alt="img-node" width="50" title="Node JS" align="left" />
     </a>
@@ -59,9 +58,7 @@ const i = {
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
       <img src="logos/mongodb.png" alt="img-mongodb" width="50" title="MongoDB" align="left" />
     </a>
-  </div>
 
-  <div>
     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
       <img src="logos/firebase.png" alt="img-firebase" width="50" title="Firebase" align="left" />
     </a>
@@ -83,8 +80,7 @@ const i = {
     <a href="https://github.com/">
       <img src="logos/github.svg" alt="img-github" width="50" title="GitHub" align="left" />
     </a>
-  </div>
-</section>
+
 
 <br/><br/>
 
