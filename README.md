@@ -33,6 +33,9 @@ const i = {
 <br/><br/>
 
 <h4>🪄 Skills:</h4>
+<a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/nodejs.png" alt="img-node" width="50" title="Node JS" align="left" />
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
 </a>
@@ -48,11 +51,17 @@ const i = {
 <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
   <img src="logos/sass.svg" alt="img-sass" width="50" title="Sass" align="left" />
 </a>
+<a href="https://lesscss.org/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/less.png" alt="img-less" width="50" title="Less" align="left" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/mongodb.png" alt="img-mongodb" width="50" title="MongoDB" align="left" />
+</a>
+<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/mui.png" alt="img-mui" width="50" title="Material UI" align="left" />
+</a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
   <img src="logos/boostrap.svg" alt="img-bootstrap" width="50" title="Bootstrap" align="left" />
-</a>
-<a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noopener noreferrer">
-  <img src="logos/json.svg" alt="img-json" width="50" title="JSON" align="left" />
 </a>
 <a href="https://www.w3schools.com/xml/ajax_intro.asp" target="_blank" rel="noopener noreferrer">
   <img src="logos/ajax.svg" alt="img-ajax" width="50" title="AJAX" align="left" />
@@ -66,18 +75,7 @@ const i = {
 <a href="https://github.com/">
   <img src="logos/github.svg" alt="img-github" width="50" title="GitHub" align="left" />
 </a>
-<br/><br/>
 
-<h4>🔨 In progress</h4>
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/python.svg" alt="img-python" width="50" title="Python" align="left" />
-</a>
-<br/><br/>
-
-<!-- <h4>Coming soon:</h4> -->
-<!-- <a href="https://www.w3schools.com/sql/default.asp">
-  <img src="logos/sql.svg" alt="img-sql" width="50" title="SQL" align="left" />
-</a> -->
 <br/><br/>
 
 -----------------------------------------------
