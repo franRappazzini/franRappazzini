@@ -60,7 +60,6 @@ const i = {
 </a>
 
 <br/><br/>
-<br/><br/>
 
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
   <img src="logos/firebase.png" alt="img-firebase" width="50" title="Firebase" align="left" />
