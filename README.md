@@ -9,7 +9,7 @@ const i = {
     skills: ["Node JS", "React JS", "Redux" , "jQuery", "Sass", "Less", "MongoDB", "Firebase",
               "npm", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
-  education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}]
+  education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
   energy: "full 💯",
 };
 ```
@@ -56,6 +56,9 @@ const i = {
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
   <img src="logos/mongodb.png" alt="img-mongodb" width="50" title="MongoDB" align="left" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/firebase.png" alt="img-firebase" width="50" title="Firebase" align="left" />
 </a>
 <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
   <img src="logos/mui.png" alt="img-mui" width="50" title="Material UI" align="left" />
