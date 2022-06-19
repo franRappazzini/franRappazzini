@@ -34,7 +34,7 @@ const i = {
 
 <h4>🪄 Skills:</h4>
 
-    <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
+   <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
       <img src="logos/nodejs.png" alt="img-node" width="50" title="Node JS" align="left" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
@@ -59,7 +59,7 @@ const i = {
       <img src="logos/mongodb.png" alt="img-mongodb" width="50" title="MongoDB" align="left" />
     </a>
 
-    <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+   <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
       <img src="logos/firebase.png" alt="img-firebase" width="50" title="Firebase" align="left" />
     </a>
     <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
