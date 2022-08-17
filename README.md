@@ -6,7 +6,7 @@ const i = {
   city: "Buenos Aires, Argentina",
   role: {
     fullStackDev: ["JavaScript", "HTML", "CSS", "SQL"],
-    skills: ["Node JS", "React JS", "Redux", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
+    stack: ["Node JS", "React JS", "Redux", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
               "jQuery", "Sass", "Less", "npm", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
   education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
