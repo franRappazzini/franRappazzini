@@ -86,7 +86,7 @@ const i = {
 
 <h4>🧠 Learning:</h4>
 <a href="https://www.typescriptlang.org/">
-  <img src="logos/github.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
+  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
 </a>
 
 <br/><br/>
