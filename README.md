@@ -44,7 +44,7 @@ const i = {
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
  </a>
  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/nextjs.svg" alt="img-nextjs" width="50" title="Next.js" align="left" />
+  <img src="logos/nextjs.png" alt="img-nextjs" width="50" title="Next.js" align="left" />
  </a>
     <!-- <a href="https://reactnative.dev/">
       <img src="logos/react-native-logo.png" alt="img-react-native" width="50" title="React Native" align="left" />
@@ -92,7 +92,7 @@ const i = {
 
 <h4>🧠 Learning:</h4>
 <a href="https://soliditylang.org/">
-  <img src="logos/solidity.svg" alt="img-solidity" width="50" title="Solidity" align="left" />
+  <img src="logos/solidity.png" alt="img-solidity" width="50" title="Solidity" align="left" />
 </a>
 
 <br/><br/>
