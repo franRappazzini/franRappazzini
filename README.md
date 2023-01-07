@@ -30,6 +30,9 @@ const i = {
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noopener noreferrer">
   <img src="logos/css.svg" alt="img-css" width="50" title="CSS" align="left" />
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
+</a>
 <br/><br/>
 
 <h4>🪄 Skills:</h4>
@@ -39,6 +42,9 @@ const i = {
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
+ </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/nextjs.svg" alt="img-nextjs" width="50" title="Next.js" align="left" />
  </a>
     <!-- <a href="https://reactnative.dev/">
       <img src="logos/react-native-logo.png" alt="img-react-native" width="50" title="React Native" align="left" />
@@ -85,8 +91,8 @@ const i = {
 <br/><br/>
 
 <h4>🧠 Learning:</h4>
-<a href="https://www.typescriptlang.org/">
-  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
+<a href="https://soliditylang.org/">
+  <img src="logos/solidity.svg" alt="img-solidity" width="50" title="Solidity" align="left" />
 </a>
 
 <br/><br/>
