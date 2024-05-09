@@ -6,8 +6,8 @@ const i = {
   city: "Buenos Aires, Argentina",
   role: {
     fullStackDev: ["JavaScript", "TypeScript", "Motoko", "Solidity", "HTML", "CSS", "SQL"],
-    stack: ["Node JS", "React JS", "Next JS", "Redux", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
-              "jQuery", "Sass", "Less", "npm", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
+    stack: ["Node JS", "React JS", "Next JS", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
+              "jQuery", "Sass", "Less", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
   education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
   energy: "full 💯",
