@@ -5,7 +5,7 @@ const i = {
   name: "Francisco Rappazzini",
   city: "Buenos Aires, Argentina",
   role: {
-    fullStackDev: ["JavaScript", "TypeScript", "Motoko", "Solidity", "HTML", "CSS", "SQL"],
+    fullStackDev: ["JavaScript", "TypeScript", "Rust", "Solidity", "HTML", "CSS", "SQL"],
     stack: ["Node JS", "React JS", "Next JS", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
               "jQuery", "Sass", "Less", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
