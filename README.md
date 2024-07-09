@@ -24,15 +24,22 @@ const i = {
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noopener noreferrer">
   <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" align="left" />
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="logos/rust.png" alt="Rust Language" width="50" title="Rust" align="left" />
+</a>
+<a href="https://soliditylang.org/">
+  <img src="logos/solidity.png" alt="img-solidity" width="50" title="Solidity" align="left" />
+</a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noopener noreferrer">
   <img src="logos/html.svg" alt="img-html" width="50" title="HTML" align="left" />
 </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noopener noreferrer">
   <img src="logos/css.svg" alt="img-css" width="50" title="CSS" align="left" />
 </a>
-<a href="https://www.typescriptlang.org/">
-  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
-</a>
+
 <br/><br/>
 
 <h4>🪄 Skills:</h4>
@@ -90,10 +97,10 @@ const i = {
 </a>
 <br/><br/>
 
-<h4>🧠 Learning:</h4>
+<!-- <h4>🧠 Learning:</h4>
 <a href="https://soliditylang.org/">
   <img src="logos/solidity.png" alt="img-solidity" width="50" title="Solidity" align="left" />
-</a>
+</a> -->
 
 <br/><br/>
 
