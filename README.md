@@ -6,7 +6,7 @@ const i = {
   city: "Buenos Aires, Argentina",
   role: {
     fullStackDev: ["JavaScript", "TypeScript", "Rust", "Solidity", "HTML", "CSS", "SQL"],
-    stack: ["Node JS", "React JS", "Next JS", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
+    stack: ["Node JS", "React JS", "Next JS", "Anchor", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
               "jQuery", "Sass", "Less", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
   education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
@@ -47,6 +47,9 @@ const i = {
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
   <img src="logos/nodejs.png" alt="img-node" width="50" title="Node JS" align="left" />
+</a>
+<a href="https://www.anchor-lang.com/docs/" target="_blank" rel="noopener noreferrer">
+  <img src="logos/anchor.png" alt="anchor - solana framework" width="50" title="Anchor" align="left" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
   <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
