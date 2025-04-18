@@ -9,7 +9,6 @@ const i = {
     stack: ["Node JS", "React JS", "Next JS", "Anchor", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
               "jQuery", "Sass", "Less", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
   },
-  education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
   energy: "full 💯",
 };
 ```
