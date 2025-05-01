@@ -1,16 +1,42 @@
 ### Hey there! I'm Francisco 👋
 
-```js
-const i = {
-  name: "Francisco Rappazzini",
-  city: "Buenos Aires, Argentina",
-  role: {
-    fullStackDev: ["JavaScript", "TypeScript", "Rust", "Solidity", "HTML", "CSS", "SQL"],
-    stack: ["Node JS", "React JS", "Next JS", "Anchor", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
-              "jQuery", "Sass", "Less", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
-  },
-  energy: "full 💯",
-};
+```rust
+struct Role<'a> {
+    full_stack_dev: Vec<&'a str>,
+    stack: Vec<&'a str>,
+}
+
+struct Developer<'a> {
+    name: &'a str,
+    city: &'a str,
+    role: Role<'a>,
+    energy: &'a str,
+}
+
+fn main() {
+    let i = Developer {
+        name: "Francisco Rappazzini",
+        city: "Buenos Aires, Argentina",
+        role: Role {
+            full_stack_dev: vec![
+                "JavaScript", "TypeScript", "Rust", "Solidity", "HTML", "CSS", "SQL",
+            ],
+            stack: vec![
+                "Node JS", "React JS", "Next JS", "Anchor", "PostgreSQL", "Sequelize",
+                "MongoDB", "Firebase", "jQuery", "Sass", "Less", "Git", "Material-UI",
+                "Bootstrap", "AJAX", "& more",
+            ],
+        },
+        energy: "full 💯",
+    };
+
+    println!(
+        "Hi! I'm {}, a full stack developer from {}. I work with technologies like: {:?}.",
+        i.name,
+        i.city,
+        i.role.full_stack_dev
+    );
+}
 ```
 
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
