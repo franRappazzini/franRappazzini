@@ -18,23 +18,23 @@ fn main() {
         name: "Francisco Rappazzini",
         city: "Buenos Aires, Argentina",
         role: Role {
-            full_stack_dev: vec![
-                "JavaScript", "TypeScript", "Rust", "Solidity", "HTML", "CSS", "SQL",
+            name: "Blockchain Developer",
+            lang: vec![
+                "Rust", "TypeScript", "JavaScript", "Solidity",
             ],
             stack: vec![
-                "Node JS", "React JS", "Next JS", "Anchor", "PostgreSQL", "Sequelize",
-                "MongoDB", "Firebase", "jQuery", "Sass", "Less", "Git", "Material-UI",
-                "Bootstrap", "AJAX", "& more",
+                "Anchor", "Node", "Git", "Next"
             ],
         },
         energy: "full 💯",
     };
 
     println!(
-        "Hi! I'm {}, a full stack developer from {}. I work with technologies like: {:?}.",
+        "Hi! I'm {}, a {} from {}. I work with technologies like: {:?}.",
         i.name,
+        i.role.name,
         i.city,
-        i.role.full_stack_dev
+        i.role.lang
     );
 }
 ```
