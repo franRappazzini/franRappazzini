@@ -2,7 +2,8 @@
 
 ```rust
 struct Role<'a> {
-    full_stack_dev: Vec<&'a str>,
+    name: &str,
+    lang: Vec<&'a str>,
     stack: Vec<&'a str>,
 }
 
