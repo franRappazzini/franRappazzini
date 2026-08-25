@@ -1,157 +1,56 @@
-### Hey there! I'm Francisco 👋
+# Hi, I'm Francisco Rappazzini 👋
 
-```rust
-struct Role<'a> {
-    name: &str,
-    lang: Vec<&'a str>,
-    stack: Vec<&'a str>,
-}
+**Solana Blockchain Engineer & Rust Developer**  
+Specializing in low-latency on-chain programs, security-first smart contract architecture, and high-performance Web3 infrastructure.
 
-struct Developer<'a> {
-    name: &'a str,
-    city: &'a str,
-    role: Role<'a>,
-    energy: &'a str,
-}
+---
 
-fn main() {
-    let i = Developer {
-        name: "Francisco Rappazzini",
-        city: "Buenos Aires, Argentina",
-        role: Role {
-            name: "Blockchain Developer",
-            lang: vec![
-                "Rust", "TypeScript", "JavaScript", "Solidity",
-            ],
-            stack: vec![
-                "Anchor", "Node", "Git", "Next"
-            ],
-        },
-        energy: "full 💯",
-    };
+### 🚀 About Me
 
-    println!(
-        "Hi! I'm {}, a {} from {}. I work with technologies like: {:?}.",
-        i.name,
-        i.role.name,
-        i.city,
-        i.role.lang
-    );
-}
-```
+- 🛡️ **Security-First Mindset:** Strong emphasis on smart contract safety, defensive programming, account validation, and attack vector mitigation. Experienced in rigorous automated integration and fuzz testing.
+- 🦀 Core expertise in **Rust**, **Anchor**, and **Pinocchio** for architecture, compute-unit optimization, and state management in Solana programs.
+- ⚡ Experienced in high-throughput Web3 infrastructure, custom gRPC event streaming tools, Geyser plugin integration, and distributed microservices.
+- 🛠️ Solid foundation in systems engineering and DevOps using **NATS**, **Redis**, **PostgreSQL**, **Docker**, **Ansible**, and telemetry (**Prometheus & Grafana**).
+- 🌐 Secondary full-stack capabilities with **TypeScript**, **Node.js**, **Next.js**, and **React** for end-to-end Web3 integrations.
 
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franRappazzini)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franRappazzini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
 
------------------------------------------------
+### 🛠 Technical Stack
 
+**Blockchain & Security**
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white)
+![Pinocchio](https://img.shields.io/badge/Pinocchio-FF6F61?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h4>💻 Languages:</h4>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noopener noreferrer">
-  <img src="logos/javascript.svg" alt="img-javascript" width="50" title="JavaScript" align="left" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="logos/typescript.svg" alt="img-typescript" width="50" title="TypeScript" align="left" />
-</a>
-<a href="https://www.rust-lang.org/">
-  <img src="logos/rust.png" alt="Rust Language" width="50" title="Rust" align="left" />
-</a>
-<a href="https://soliditylang.org/">
-  <img src="logos/solidity.png" alt="img-solidity" width="50" title="Solidity" align="left" />
-</a>
-<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noopener noreferrer">
-  <img src="logos/html.svg" alt="img-html" width="50" title="HTML" align="left" />
-</a>
-<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noopener noreferrer">
-  <img src="logos/css.svg" alt="img-css" width="50" title="CSS" align="left" />
-</a>
+**Systems, Infrastructure & DevOps**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br/><br/>
+**Full-Stack & Integration**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h4>🪄 Skills:</h4>
+---
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/nodejs.png" alt="img-node" width="50" title="Node JS" align="left" />
-</a>
-<a href="https://www.anchor-lang.com/docs/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/anchor.png" alt="anchor - solana framework" width="50" title="Anchor" align="left" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/react.svg" alt="img-react" width="50" title="React" align="left" />
- </a>
- <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/nextjs.png" alt="img-nextjs" width="50" title="Next.js" align="left" />
- </a>
-    <!-- <a href="https://reactnative.dev/">
-      <img src="logos/react-native-logo.png" alt="img-react-native" width="50" title="React Native" align="left" />
-    </a> -->
-<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/redux.svg" alt="img-redux" width="50" title="Redux" align="left" />
-</a>
-<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/jquery.svg" alt="img-jquery" width="50" title="jQuery" align="left" />
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/sass.svg" alt="img-sass" width="50" title="Sass" align="left" />
-</a>
-<a href="https://lesscss.org/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/less.png" alt="img-less" width="50" title="Less" align="left" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/mongodb.png" alt="img-mongodb" width="50" title="MongoDB" align="left" />
-</a>
+### 📊 GitHub Metrics
 
-<br/><br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=franRappazzini&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Francisco's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franRappazzini&layout=compact&theme=dark&hide_border=true&hide=html,css,less,sass" alt="Top Languages" height="160" />
+</p>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/firebase.png" alt="img-firebase" width="50" title="Firebase" align="left" />
-</a>
-<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/mui.png" alt="img-mui" width="50" title="Material UI" align="left" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/boostrap.svg" alt="img-bootstrap" width="50" title="Bootstrap" align="left" />
-</a>
-<a href="https://www.w3schools.com/xml/ajax_intro.asp" target="_blank" rel="noopener noreferrer">
-  <img src="logos/ajax.svg" alt="img-ajax" width="50" title="AJAX" align="left" />
-</a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/npm.svg" alt="img-npm" width="50" title="npm" align="left" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="logos/git.svg" alt="img-git" width="50" title="Git" align="left" />
-</a>
-<a href="https://github.com/">
-  <img src="logos/github.svg" alt="img-github" width="50" title="GitHub" align="left" />
-</a>
-<br/><br/>
+---
 
-<!-- <h4>🧠 Learning:</h4>
-<a href="https://soliditylang.org/">
-  <img src="logos/solidity.png" alt="img-solidity" width="50" title="Solidity" align="left" />
-</a> -->
+### 🌐 Connect & Links
 
-<br/><br/>
-
-
------------------------------------------------
-
-- [Portfolio](https://rappazzini-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/) 
-
-<!--
-**franRappazzini/franRappazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌐 Portfolio](https://rappazzini.dev.ar) • [💼 LinkedIn](https://www.linkedin.com/in/francisco-rappazzini/) • [📧 Email](mailto:franciscorappazzini@gmail.com)
