@@ -15,6 +15,15 @@ Specializing in low-latency on-chain programs, security-first smart contract arc
 
 ---
 
+
+
+### 🤝 Open Source Contributions
+
+- **[otter-sec/anchor](https://github.com/otter-sec/anchor):** Contributed to the official Solana Anchor Framework. *(PR: [https://github.com/otter-sec/anchor/pull/4944])*
+- **[MeteoraAg/damm-v2-sdk](https://github.com/MeteoraAg/damm-v2-sdk):** Contributed to the Meteora DAMM with Anchor examples. *(PR: [https://github.com/MeteoraAg/damm-v2-sdk/pull/110])*
+
+---
+
 ### 🛠 Technical Stack
 
 **Blockchain & Security**
